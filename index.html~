@@ -125,7 +125,7 @@
 <div class="form animated bounceInUp" data-animation-delay="700">
 <!-- container form -->
 <div class="container-form">
-<!-- section page -->
+<!-- section page - ->
 <div class="section-page" id="signup">
 <form class="subscription-form mailchimp" method="post" id="mc-form">
 <input type="email" id="email" class="border-radius-22 bottom-margin" name="email" placeholder="Enter Your Email Address" />
